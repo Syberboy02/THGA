@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+C:\GLP\SFMLx32\Source1.cpp(367,27): warning C4018: '<': signed/unsigned mismatch
+C:\GLP\SFMLx32\Source1.cpp(422,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\SFMLx32\Source1.cpp(422,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\SFMLx32\Source1.cpp(428,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\SFMLx32\Source1.cpp(428,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\SFMLx32\Source1.cpp(435,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GLP\SFMLx32\Source1.cpp(558,27): warning C4018: '<': signed/unsigned mismatch
+C:\GLP\SFMLx32\Source1.cpp(561,27): warning C4018: '<': signed/unsigned mismatch
+  SFMLx32.vcxproj -> C:\GLP\SFMLx32\Debug\SFMLx32-0.exe
